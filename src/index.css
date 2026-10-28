@@ -8,4 +8,8 @@
 
 body {
   margin: 0;
+  min-height: 100vh;
+  background: linear-gradient(110deg, #015c1c, #66d28e);
+  color: #333;
+  font-family: Arial, Helvetica, sans-serif;
 }
